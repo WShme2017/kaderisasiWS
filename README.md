@@ -1,5 +1,5 @@
 ## Welcome to Kaderisasi WS 2017
-`[Folder Day 0]`
+```[Folder Day 0]```
 
 **1. Informasi Umum**
   * Presentasi dan spesifikasi tugas tiap day dapat dilihat pada folder day yang bersesuaian<br />
