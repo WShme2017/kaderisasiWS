@@ -1,6 +1,6 @@
 ## Welcome to Kaderisasi WS 2017
    ```
-   [Folder Day 0](https://github.com/WShme2017/kaderisasiWS/tree/master/day%200)
+   [Folder Day 0]
    ```
 
 **1. Informasi Umum**
@@ -32,3 +32,4 @@
  6. Setelah semua file berhasil diupload, tekan tombol ***Commit changes***
  
 [kaderisasiWS]: https://github.com/WShme2017/kaderisasiWS
+[Folder Day 0]: https://github.com/WShme2017/kaderisasiWS/tree/master/day%200
