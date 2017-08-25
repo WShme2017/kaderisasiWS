@@ -20,7 +20,7 @@ Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 4. Tidak melakukan aktifitas yang mengganggu baik pada day maupun mentoring
 5. Tidak ada hubungan 'spesial' antara cakru dengan kru yg menyebabkan pemudahan dalam proses seleksi
 
-## 3. Aturan kehadiran dan perizinan
+## 3. Aturan Kehadiran dan Perizinan
 
 1. Cakru Workshop harus hadir pada saat DAY Kaderisasi Workshop HME 2017 karena kehadiran ini penting dan akan memengaruhi penilaian. Untuk setiap day, akan ada absensi kehadiran yang memengaruhi penilaian (oleh karena itu, cakru harus mengisi absensi tepat pada saat cakru tiba di DAY tersebut).
 
