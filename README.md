@@ -4,15 +4,20 @@
 
 
 ![WSlogo](https://avatars0.githubusercontent.com/u/22032588?v=4&s=280)
-## 1. Folder Day   
-   
+
+## 1. Pengantar
+
+
+
 ## 2. Informasi Umum
-  * Presentasi dan spesifikasi tugas tiap day dapat dilihat pada folder day yang bersesuaian
+  Presentasi dan spesifikasi tugas tiap day dapat dilihat pada folder day yang bersesuaian
+
+
 ## 3. Aturan Umum
   
-    Harap perhatikan aturan Kaderisasi Cakru Workshop HME 2017
+   Harap perhatikan aturan Kaderisasi Cakru Workshop HME 2017
       
-    [Click here]
+   [Click here]
   
 ## 4. Cara Penggunaan Repository Github
 
@@ -21,11 +26,14 @@
  3. Klik tombol ***Fork*** di pojok kanan atas [page ini](https://github.com/WShme2017/kaderisasiWS)
  4. *Pop up window* akan muncul setelah anda menekan tombol *Fork*, tekan ***profil anda***.
  5. Sekarang, *repository* baru (yang merupakan *forked* repository [kaderisasiWS]) akan muncul di profil anda. Alamat repository tersebut akan berbentuk seperti ini:`https://github.com/USER_NAME/kaderisasiWS`, sebagai contoh, https://github.com/williamchand/kaderisasiWS. (Jika anda baru saja mem-*fork* repository WorkshopHMEITB/KaderisasiWS2016, anda akan langsung ter-*redirect* ke alamat repository baru anda tersebut)
- 6. Setelah *forked repository* berhasil anda buat, anda dapat ***mengupload file-file*** yang harus anda upload ke repository tersebut. Cara mengupload file yang baik dan benar, ada pada bagian 4, "Cara mengupload file-file ke forked repository"
+ 6. Setelah *forked repository* berhasil anda buat, anda dapat ***mengupload file-file*** yang harus anda upload ke repository tersebut. Cara mengupload file yang baik dan benar, ada pada bagian selanjutnya, "Cara mengupload file-file ke forked repository"
  7. Setelah semua file yang diperlukan sudah anda upload, tekan ***New Pull Request***
  8. Kemudian tekan tombol ***Create pull request***. Tuliskan "Tugas Day X Kelompok Y" pada bagian title dan tekan kembali tombol ***Create pull request***
  9. Selesai. Jika anda sudah mengupload semua file dengan benar, pihak kami akan menerima *pull request* anda dan menggabungkannya ke dalam repository [kaderisasiWS]
-## 5. Cara mengupload file-file ke forked repository
+ 
+ 
+**Cara mengupload file-file ke forked repository**
+
  1. Buka *forked repository* anda di `https://github.com/USER_NAME/kaderisasiWS`
  2. Buka folder day yang bersesuaian
  3. Buat folder pengumpulan tugas kelompok anda di dalam folder day tersebut dengan cara sebagai berikut
