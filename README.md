@@ -1,12 +1,11 @@
 # Welcome to Kaderisasi WS 2017
 
 ### #WorkshopJayadanKaya
-### WS CAKEP
+
 
 ![WSlogo](https://avatars0.githubusercontent.com/u/22032588?v=4&s=280)
 ## 1. Folder Day   
-   [Folder Day 0]
-
+   
 ## 2. Informasi Umum
   * Presentasi dan spesifikasi tugas tiap day dapat dilihat pada folder day yang bersesuaian
 ## 3. Aturan umum pengumpulan tugas
