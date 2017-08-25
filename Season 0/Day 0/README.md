@@ -18,7 +18,7 @@ Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 2. Bagi yang tidak hadir wajib memberi izin sesuai mekanisme
 3. Mengumpulkan seluruh tugas secara tepat waktu dan sesuai spesifikasi tugas
 4. Tidak melakukan aktifitas yang mengganggu baik pada day maupun mentoring
-5. Tidak ada hubungan 'spesial' antara cakru Dan kru yg menyebabkan pemudahan dalam proses seleksi
+5. Tidak ada hubungan 'spesial' antara cakru dengan kru yg menyebabkan pemudahan dalam proses seleksi
 
 ## 3. Aturan kehadiran dan perizinan
 
@@ -26,7 +26,7 @@ Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 
 2. Keterlambatan akan mengurangi poin kehadiran. Setiap keterlambatan akan mengurangi poin tergantung dengan berapa menit cakru terlambat. Untuk tiap lima menit keterlambatan, pengurangan satu poin.
 
-3. Ketidakhadiran tanpa izin akan menyebabkan konsekuensi nol poin pada penilaian kehadiran
+3. Ketidakhadiran tanpa izin akan menyebabkan konsekuensi nol poin pada penilaian kehadiran.
 
 4. Mekanisme izin adalah membuat surat pernyataan yang dikirimkan ke workshophme2017@gmail.com dan dibuat pula tembusan ke Shafiyyah (LINE : Shafiyyah)
 
