@@ -2,7 +2,7 @@
 
 ## 1. Pengantar
 
-Selamat datang, cakru Workshop HME ITB!
+**Selamat datang, cakru Workshop HME ITB!**
 Selamat mengikuti rangkaian Kaderisasi Workshop HME ITB. Di sini, anda akan belajar mengenai hal-hal yang dibutuhkan untuk menjadi kru Workshop HME. Secara garis besar, anda akan belajar hardskill yang mencakup skill teknis yakni kemampuan dasar elektronika praktis dan pembuatan produk dengan memanfaatkan beberapa software. Selain itu, akan ada juga pembelajaran softskill mengenai kemampuan komunikasi dengan client, manajemen proyek, dan skill non-teknis lainnya.
 
 Pada Kaderisasi ini, anda akan mengikuti rangkaian kegiatan dalam beberapa Day. Akan ada beberapa Season dalam Kaderisasi Workshop HME 2017, yang mana masing-masing Season akan memiliki tema sendiri. Satu Season akan berkisar sekitar satu bulan dan berisikan beberapa Day serta satu tugas kelompok. Selain itu, setiap akhir Day akan ada kuis online yang harus diisi cakru dan batasan mengerjakan kuis online adalah H+2 Day 23.59.
@@ -11,7 +11,7 @@ Pada Kaderisasi ini, anda akan mengikuti rangkaian kegiatan dalam beberapa Day. 
 
 Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 
-KONTRAK BELAJAR CAKRU WORKSHOP
+**KONTRAK BELAJAR CAKRU WORKSHOP**
 1. Hadir tepat waktu baik day kaderisasi maupun mentoring
 2. Bagi yang tidak hadir wajib memberi izin sesuai mekanisme
 3. Mengumpulkan seluruh tugas secara tepat waktu dan sesuai spesifikasi tugas
@@ -36,25 +36,12 @@ Aturan :
 * Izin paling lambat dikirimkan J-12 Day Kaderisasi
 * Izin hanya akan diterima dan dianggap sah jika ada balasan "IZIN DITERIMA"
   
-5. Apabila 
+5. Apabila ada aturan lebih lanjut, akan diberitahukan kemudian.
 
 ## 4. Pembagian Kelompok
 
 Harap melihat pembagian kelompok pada link berikut : 
 
-
-## 5. Tugas Day 0
-
-Kerjakan kuis secara individu pada google form berikut :
-
-bit.ly/kuis [kuis]
-
-
-
-
-
-
-[kuis]: bit.ly/kuis
 
 
 
