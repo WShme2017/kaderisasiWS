@@ -5,19 +5,30 @@
 
 ![WSlogo](https://avatars0.githubusercontent.com/u/22032588?v=4&s=280)
 
-## 1. Pengantar
+## 1. Let's Get Started!
 
+Selamat datang, cakru Workshop HME ITB!
+
+Selamat mengikuti rangkaian Kaderisasi Workshop HME ITB. Di sini, anda akan belajar mengenai hal-hal yang dibutuhkan untuk menjadi kru Workshop HME. Secara garis besar, anda akan belajar hardskill yang mencakup skill teknis yakni kemampuan dasar elektronika praktis dan pembuatan produk dengan memanfaatkan beberapa software. Selain itu, akan ada juga pembelajaran softskill mengenai kemampuan komunikasi dengan client, manajemen proyek, dan skill non-teknis lainnya.
+
+*Untuk Workshop HME yang jaya dan kaya pula!*
 
 
 ## 2. Informasi Umum
-  Presentasi dan spesifikasi tugas tiap day dapat dilihat pada folder day yang bersesuaian
-
+   
+   Presentasi dan spesifikasi tugas tiap day dapat dilihat pada folder day yang bersesuaian
+   
+   Apabila ada hal yang ingin ditanyakan, hubungi Contact Person :
+   
+   Umar Al Faruqi | 081287624622 | alfaruqitensai
+   
+   Shafiyyah | 08112346925 | Shafiyyah
 
 ## 3. Aturan Umum
   
    Harap perhatikan aturan Kaderisasi Cakru Workshop HME 2017
       
-   [Click here]
+   [aturan umum]
   
 ## 4. Cara Penggunaan Repository Github
 
@@ -47,4 +58,4 @@
 [kaderisasiWS]: https://github.com/WShme2017/kaderisasiWS
 [Folder Day 0]: https://github.com/WShme2017/kaderisasiWS/tree/master/day%200
 
-[Click here]: https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Day%200/README.md
+[aturan umum]: https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Day%200/README.md
