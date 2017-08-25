@@ -28,7 +28,7 @@ Selamat mengikuti rangkaian Kaderisasi Workshop HME ITB. Di sini, anda akan bela
   
    Harap perhatikan aturan Kaderisasi Cakru Workshop HME 2017
       
-   [aturan umum]
+   [Aturan Umum]
   
 ## 4. Cara Penggunaan Repository Github
 
@@ -56,6 +56,5 @@ Selamat mengikuti rangkaian Kaderisasi Workshop HME ITB. Di sini, anda akan bela
  6. Setelah semua file berhasil diupload, tekan tombol ***Commit changes***
  
 [kaderisasiWS]: https://github.com/WShme2017/kaderisasiWS
-[Folder Day 0]: https://github.com/WShme2017/kaderisasiWS/tree/master/day%200
 
-[aturan umum]: https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Day%200/README.md
+[Aturan Umum]: https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Day%200/README.md
