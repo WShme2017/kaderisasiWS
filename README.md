@@ -49,7 +49,7 @@ Selamat mengikuti rangkaian Kaderisasi Workshop HME ITB. Di sini, anda akan bela
  2. Buka folder day yang bersesuaian
  3. Buat folder pengumpulan tugas kelompok anda di dalam folder day tersebut dengan cara sebagai berikut
      * Tekan tombol ***Create new file***
-     * Pada bagian "Name your file...", tulis "KelompokX" (ganti X dengan nomor kelompok anda), lalu tekan "/". Kemudian, tulis lagi ".gitkeep"
+     * Pada bagian "Name your file...", tulis "Kelompok X" (ganti X dengan nomor kelompok anda), lalu tekan "/". Kemudian, tulis lagi ".gitkeep"
      * *Scroll* kebawah dan klik ***Commit new file***
  4. Pada folder pengumpulan tugas kelompok anda tersebut, klik tombol ***Upload files***
  5. Klik ***choose your files*** dan pilih file mana saja yang ingin anda upload
