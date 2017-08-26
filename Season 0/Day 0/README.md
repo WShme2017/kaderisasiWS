@@ -24,7 +24,7 @@ Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 7. Tidak melakukan aktifitas yang mengganggu baik pada day
 8. Membuat dokumentasi untuk setiap pengerjaan tugas kelompok
 9. Melaporkan progress tugas kelompok secara berkala kepada mentor kelompok 
-10. Tidak ada hubungan 'spesial' antara cakru dengan kru yg menyebabkan pemudahan dalam proses seleksi
+10. Tidak ada hubungan `'spesial'` antara cakru dengan kru yg menyebabkan pemudahan dalam proses seleksi
 
 ## 3. Aturan Kehadiran dan Perizinan
 
