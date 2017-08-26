@@ -9,10 +9,10 @@
 
     [WORKSHOP HME ITB]
 
-    ... <br>
-    konten <br>
-    konten <br>
-    konten <br>
+    ... 
+    konten 
+    konten 
+    konten 
     ...
 
     Nama
