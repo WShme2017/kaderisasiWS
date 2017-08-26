@@ -51,7 +51,7 @@ Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 Harap melihat pembagian kelompok pada link berikut : 
 [Pembagian Kelompok]
 
-[Pembagian Kelompok]: kaderisasiWS/Season 0/Day 0/Pembagian Kelompok/39495.jpg
+[Pembagian Kelompok]: https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Day%200/Pembagian%20Kelompok/39495.jpg
 
 
 
