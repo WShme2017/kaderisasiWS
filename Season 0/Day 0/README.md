@@ -14,11 +14,17 @@ Pada Kaderisasi ini, anda akan mengikuti rangkaian kegiatan dalam beberapa Day. 
 Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 
 **KONTRAK BELAJAR CAKRU WORKSHOP**
-1. Hadir tepat waktu baik day kaderisasi maupun mentoring
-2. Bagi yang tidak hadir wajib memberi izin sesuai mekanisme
-3. Mengumpulkan seluruh tugas secara tepat waktu dan sesuai spesifikasi tugas
-4. Tidak melakukan aktifitas yang mengganggu baik pada day maupun mentoring
-5. Tidak ada hubungan 'spesial' antara cakru dengan kru yg menyebabkan pemudahan dalam proses seleksi
+
+1. Cakru aktif berpartisipasi pada setiap agenda Kaderisasi Workshop HME 2017
+2. Cakru hadir tepat waktu pada setiap kegiatan
+3. Membawa spek dengan lengkap pada setiap day
+4. Bagi yang tidak dapat hadir harus membuat izin sesuai mekanisme
+5. Mengumpulkan seluruh tugas secara tepat waktu dan sesuai spesifikasi tugas
+6. Mengerjakan setiap tugas individu berupa kuis setelah selesai day
+7. Tidak melakukan aktifitas yang mengganggu baik pada day
+8. Membuat dokumentasi untuk setiap pengerjaan tugas kelompok
+9. Melaporkan progress tugas kelompok secara berkala kepada mentor kelompok 
+10. Tidak ada hubungan 'spesial' antara cakru dengan kru yg menyebabkan pemudahan dalam proses seleksi
 
 ## 3. Aturan Kehadiran dan Perizinan
 
