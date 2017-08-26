@@ -49,7 +49,7 @@ Cakru Workshop harus memenuhi kontrak belajar sebagai berikut.
 ## 4. Pembagian Kelompok
 
 Harap melihat pembagian kelompok pada link berikut : 
-[Pembagian Kelompok](Pembagian Kelompok/39495.jpg)
+[Pembagian Kelompok](kaderisasiWS/Season 0/Day 0/Pembagian Kelompok/39495.jpg)
 
 
 
