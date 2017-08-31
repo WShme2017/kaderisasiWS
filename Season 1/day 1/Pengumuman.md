@@ -1,5 +1,5 @@
 # Pengumuman
-Spek yang perlu dibawa masing masing 1: 
+Spek yang perlu dibawa masing-masing cakru : 
 * Buku catatan
 * Alat tulis
 * Mouse (opsional)
