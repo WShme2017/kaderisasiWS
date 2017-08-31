@@ -4,7 +4,7 @@
 
 
 :date:  06 September 2017 <br>
-:clock730:  19:30 <br>
+:clock730:  Pukul 19:30 <br>
 :house:  Sekretariat HME ITB <br>
 
 
