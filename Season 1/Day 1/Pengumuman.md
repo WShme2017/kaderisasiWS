@@ -27,7 +27,9 @@ Spek yang perlu dibawa oleh setiap cakru :
 * Mouse (opsional)
 * Terminal (opsional)
 * Rangkaian [Tugas Kelompok 0](https://github.com/WShme2017/kaderisasiWS/tree/master/Season%200/Tugas%20Kelompok%200)
+* Air minum (opsional)
 * Semangat :smile:
 
+<br> <br> <br>
 
 ### #RealQuaility
