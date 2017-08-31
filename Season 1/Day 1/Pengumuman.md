@@ -1,6 +1,6 @@
-# Pengumuman
+# Pengumuman Day 1
 
-### Pengumuman terkait Day 1
+#### Pengumuman terkait Day 1 dapat dilihat di sini
 Setiap cakru harap memperhatikan pengumuman ini, beritahukan kepada anggota kelompok Anda.
 
 ## Informasi Umum
@@ -31,5 +31,4 @@ Spek yang perlu dibawa oleh setiap cakru :
 * Semangat :smile:
 
 <br> <br> <br>
-
-### #RealQuaility
+### #WorkshopJayadanKaya
