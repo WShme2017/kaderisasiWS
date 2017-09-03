@@ -46,8 +46,8 @@ Selamat mengikuti rangkaian Kaderisasi Workshop HME ITB. Di sini, anda akan bela
 **Cara mengupload file-file ke forked repository**
 
  1. Buka *forked repository* anda di `https://github.com/USER_NAME/kaderisasiWS`
- 2. Buka folder day yang bersesuaian
- 3. Buat folder pengumpulan tugas kelompok anda di dalam folder day tersebut dengan cara sebagai berikut
+ 2. Buka folder yang bersesuaian
+ 3. Buat folder pengumpulan tugas kelompok anda di dalam folder tersebut dengan cara sebagai berikut
      * Tekan tombol ***Create new file***
      * Pada bagian "Name your file...", tulis "Kelompok X" (ganti X dengan nomor kelompok anda), lalu tekan "/". Kemudian, tulis lagi ".gitkeep"
      * *Scroll* kebawah dan klik ***Commit new file***
