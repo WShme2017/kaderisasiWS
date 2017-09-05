@@ -17,7 +17,7 @@
   10. **LCD menampilkan hasil kalkulasi** :heart_eyes:
   11. Tekan *keypad enter* , **kalkulator kembali ke keadaan semula**
 
-### B. Detail Tugas
+### C. Detail Tugas
   1.  Membuat desain PCB ***WSCalc 2017***
   2.	Membuat kode Arduino kalkulator ***WSCalc 2017***
   3.	Membuat rangkaian kalkulator ***WSCalc 2017*** (Cetaklah PCB `tertata baik` dan `memorable`)
@@ -27,13 +27,13 @@
       <br> > Source code WSCalcKelompok?.ino
       <br> > PCB design file (semua file dimasukkan ke PCBKelompok?.zip)
       <br> > Image produk jadi (Kelompok?.png atau Kelompok?.jpg)
-      <br> > Dokumentasi tugas (TK1Kelompok?.docx)
+      <br> > Dokumentasi tugas (TK1Kelompok?.docx) **(template terlampir)**
 
-### C. Fitur Premium Kalkulator WSCalc 2017 (Spesifikasi Bonus, supplementory)
+### D. Fitur Premium Kalkulator WSCalc 2017 (Spesifikasi Bonus, supplementory)
   * **Dapat di delete** operand yang di input
   * **Buat board rangkaian sedemikian rupa sehingga rangkaian dapat dijadikan shield Arduino.** (*Shields are boards that can be plugged on top of the Arduino PCB extending its capabilities.* -https://www.arduino.cc/en/Main/ArduinoShields)
 
-### D. Rangkaian Kalkulator WSCalc 2017
+### E. Rangkaian Kalkulator WSCalc 2017
   * **Rangkaian push button** gunakan internal pull up atau pull down dari Arduino</br  >
   ![push](https://github.com/WorkshopHMEITB/KaderisasiWS2016/blob/master/assets/images/push.PNG)
   * **Rangakain LED** </br  >
@@ -41,18 +41,18 @@
   * **Salah satu kemungkinan rangkaian untuk menghubungkan LCD dengan Arduino** (Jangan lupa untuk menyesuaikan parameter pada insialisasi LCD sebelum *setup loop*. Jika ingin menggunakan rangkaian yang dibawah ini dengan persis, maka tuliskan *LiquidCrystal lcd(12, 13, 5, 4, 3, 2);* sebelum *setup loop*)</br  ></br  >
 ![lcdarduino](https://github.com/wshme2017/kaderisasiWS/blob/master/assets/images/lcdarduino.jpg)
 
-### E. Informasi Tambahan
+### F. Informasi Tambahan
   * Rangkaian harus dicetak PCB dilarang double side (setiap kelompok hanya 1 PCB)
   * Dilarang menggunakan kabel jumper pada tugas ini (arduino dengan PCB dihubungkan dengan male header)
   * Untuk keperluan tugas ini cakru dipersilahkan konsultasi kepada mentor masing-masing
   * Wajib menggunakan keypad
   
-### F. Deadline
+### G. Deadline
   * 25-29 September 2017 (Deadline Presentasi ke mentor)
   * 29 September 2017 (Upload ke github)
   * Keterlambatan akan mengakibatkan konsekuensi minus (%) terhadap nilai
   
-## G. Fitur Tambahan
+### H. Fitur Tambahan
 #### Pilih minimal salah satu dari fitur di bawah ini (diperbolehkan menambah fitur lain) :
   * Trigonometric function (sin, cos, and tan)
   * Squareroot and power
@@ -62,8 +62,6 @@
   * Logarithm and natural logarithm
   
 <br> <br>
-
 CP : William Chandra (LINE : william_chans)
-
 <br> <br> <br>
-#WorkshopJayadanKaya
+##### #WorkshopJayadanKaya
