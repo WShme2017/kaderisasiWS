@@ -9,5 +9,7 @@
 
 
 Setiap cakru harap memperhatikan [Pengumuman](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%201/Day%201/Pengumuman.md) Day 1.
+Setiap cakru harap mengerjakan [kuis](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%201/Day%201/kuis.md) Day 1.
+
 <br> <br> <br>
 ### #WorkshopJayadanKaya
