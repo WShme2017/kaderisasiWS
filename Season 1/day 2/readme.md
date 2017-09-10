@@ -8,7 +8,7 @@
 :house:  Sekretariat HME ITB <br>
 
 
-Setiap cakru harap memperhatikan [Pengumuman](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%201/Day%202/Pengumuman.md) Day 2.
+Setiap cakru harap memperhatikan [Pengumuman]: (https://github.com/WShme2017/kaderisasiWS/blob/master/Season%201/Day%202/Pengumuman.md) Day 2.
 
 <br> <br> <br>
 ### #WorkshopJayadanKaya
