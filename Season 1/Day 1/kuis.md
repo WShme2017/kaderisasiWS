@@ -1,4 +1,4 @@
-# Tugas Day 0
+# Tugas Day 1
 
 Kerjakan kuis secara individu pada google form berikut :
 
