@@ -7,5 +7,6 @@
 :clock730:  Pukul 13:00 <br>
 :house:  Sekretariat HME ITB <br>
 
+Tidak ada spek berpakaian rapi dan sopan
 <br> <br> <br>
 ### #WorkshopJayadanKaya
