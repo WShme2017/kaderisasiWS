@@ -3,7 +3,7 @@
 ## "Workshop NodeMCU IoT"
 
 
-:date:  21 Oktober 2017 <br>
+:date:  22 Oktober 2017 <br>
 :clock730:  Pukul 13:00 <br>
 :house:  Sekretariat HME ITB <br>
 
