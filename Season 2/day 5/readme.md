@@ -10,5 +10,9 @@
 spek :
 * berpakaian rapi dan sopan
 * laptop
+* Kabel Data
+* install Blynk pada Smartphone
+* buat akun pada thingspeak
+* install Library thingspeak dan Blynk pada Arduino IDE
 <br> <br> <br>
 ### #WorkshopJayadanKaya
