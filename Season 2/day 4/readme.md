@@ -7,7 +7,7 @@
 :clock730:  Pukul 13:00 <br>
 :house:  Sekretariat HME ITB <br>
 
-Setiap cakru harap mengerjakan [kuis](https://github.com/WShme2017/kaderisasiWS/edit/master/Season%202/day%204/kuis.md) Day 4 dan 5.
+Setiap cakru harap mengerjakan [kuis](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%202/day%204/kuis.md) Day 4 dan 5.
 
 spek :
 * berpakaian rapi dan sopan
