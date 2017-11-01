@@ -6,11 +6,11 @@
   1.	Produk terhubung dengan salah satu platform IoT. Seperti : ThingSpeak, Blynk. dsb.
   2.	Memenuhi tema sebagai berikut :
   
-i.	Smart Room
+*	Smart Room
 
-ii.	Smart Garden
+*	Smart Garden
 
-iii.	Weather Station
+*	Weather Station
 
   3.	Produk memonitori minimal 2 hal
 
@@ -21,9 +21,11 @@ iii.	Weather Station
   3.	Membuat kode Arduino, dan rangkaian produk
   4.	Membuat dan mengupload file dokumentasi dan laporan ke folder yang sesuai di repository kaderisasiWS (caranya dapat dilihat pada file README.md pada root directory repository)
   5.	File yang harus di upload :
-i.	Source code namaprodukKelompok?.ino
-ii.	Image produk jadi (Kelompok?.png atau Kelompok?.jpg)
-iii.	Dokumentasi tugas(TK2Kelompok?.docx)(template sesuai dengan tugas kelompok 1)
+*	Source code namaprodukKelompok?.ino
+
+*	Image produk jadi (Kelompok?.png atau Kelompok?.jpg)
+
+*	Dokumentasi tugas(TK2Kelompok?.docx)(template sesuai dengan tugas kelompok 1)
 ###  D.	Informasi Tambahan
   1.	Untuk keperluan tugas ini cakru dipersilahkan konsultasi kepada mentor masing-masing
 ### E.	Deadline
