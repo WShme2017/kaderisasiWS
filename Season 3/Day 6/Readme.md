@@ -7,7 +7,7 @@
 :clock730:  Pukul 8:00-12:00 <br>
 :house:  Sekretariat HME ITB <br>
 
-Setiap cakru harap mengerjakan `Maintenance` Day 6 dan Day 7.
+Setiap cakru harap mengerjakan `Maintenance` Day 6.
 
 spek :
 * berpakaian rapi dan sopan
