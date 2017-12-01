@@ -1,0 +1,52 @@
+#define BLYNK_PRINT Serial
+#define pirPin D2
+
+#include <ESP8266WiFi.h>
+#include <BlynkSimpleEsp8266.h>
+#include <Servo.h>
+
+// You should get Auth Token in the Blynk App.
+// Go to the Project Settings (nut icon).
+char auth[] = "fe9e39bc94314256807134caf5897f8e";
+
+// Your WiFi credentials.
+// Set password to "" for open networks.
+char ssid[] = "Hallo";
+char pass[] = "lutunyaaw";
+Servo servo;
+
+BLYNK_WRITE(V3) {
+
+servo.write(param.asInt());
+
+}
+
+int pirValue;
+
+void setup()
+{
+  // Debug console
+  Serial.begin(115200);
+  delay(10);
+  Blynk.begin(auth, ssid, pass);
+  servo.attach(5);
+  pinMode(pirPin, INPUT);
+}
+
+void loop()
+{
+  getPirValue();
+  Blynk.run();
+}
+
+void getPirValue(void)
+{
+  pirValue = digitalRead(pirPin);
+  if (pirValue) 
+  { 
+    Serial.println("==> Motion detected");
+    Blynk.notify("T==> Motion detected");  
+  }
+
+}
+
