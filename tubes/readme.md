@@ -1,5 +1,5 @@
 # Project
-Project resmi dirilis pada tanggal 4 Desember 2017 dikerjakan dan diserahkan ke mentor pada `maintenance`
+Project secara resmi dirilis pada tanggal 4 Desember 2017 dikerjakan dan diserahkan ke mentor pada `maintenance`
 
 Jika kalian tertarik pada project diatas silahkan langsung dihubungi mentornya melalui contact yang tertera.
 
