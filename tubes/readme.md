@@ -9,4 +9,5 @@ Berikan laporan progress ke mentor setiap hari senin agar dapat dipantau.
 
 
 ***jika ada pertanyaan dan kesulitan dalam proyek hubungi mentor masing masing***
+
 dapat juga melalui CP LINE: @william_chans
